@@ -17,8 +17,8 @@ KOYEB_ACCOUNT=
 KOYEB_PASSWORD=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH='{"AccountTag":"3ea46718160b975df16f4f52585c7e27","TunnelSecret":"MgqCDOyGVUw0o8pFDBboJrEvxschMTG+ZE3pM1GkThI=","TunnelID":"6ce668f9-f600-4caa-94b9-89857652c7fb"}'
-ARGO_DOMAIN=sdfvvewmy.symphonic.ml
+ARGO_AUTH='{"AccountTag":"753fb57b71c215b63abb34429c162e10","TunnelSecret":"Iw8Vc+/0XMAUyG1y9z7i2JUUo1icgnr8taLXJu9dzSM=","TunnelID":"6dbfd358-b26e-491e-82bd-f24aa7a18f84"}'
+ARGO_DOMAIN=becdfrrrsedx.jdhfkjgkjjdh.tk
 
 generate_config() {
   cat > config.json << EOF
